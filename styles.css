@@ -1,0 +1,26 @@
+.nav-link{
+	
+	font-family:Verdana, sans-serif;
+	color: black !important;
+	
+	font-size: 1em;
+}
+
+.navbar-brand {
+
+	text-decoration: none;
+
+	color: black !important;
+}
+
+a:hover{
+
+	background-color: lightgray !important;
+}
+.w3-image{
+	   opacity: 0.8;
+}
+header {
+    background: black;
+    overflow: hidden;
+}
